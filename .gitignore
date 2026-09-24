@@ -1,0 +1,11 @@
+# Datos (se pueden regenerar descargando el dataset)
+data/
+outputs/spa_clean.tsv
+
+# Archivos comprimidos
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
